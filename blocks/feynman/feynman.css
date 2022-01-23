@@ -1,0 +1,8 @@
+.feynman {
+  height: 890px;
+  position: relative;
+  background: url(../../../first-project/images/feynman.png) 867px 637px no-repeat;
+  background-position: left bottom;
+  background-color: #f2f2f2;
+  margin-bottom: 100px;
+}

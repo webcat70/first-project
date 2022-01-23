@@ -1,0 +1,9 @@
+.rotation {
+   animation: triangle linear 20s infinite;
+ }
+
+ @keyframes triangle {
+  to {
+    transform: rotate(360deg);
+  }
+}
